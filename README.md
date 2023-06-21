@@ -38,7 +38,7 @@ You need to put `SMPLX_MALE.npz` into `data/body_models/smplx` folder.
 - [ ] SMPL-H shape control
 - [ ] Female shape control
 
- **when paper is available(maybe a long long time): **
+when paper is available(maybe a long long time):
 
 - [ ] SMPL shape generation
 - [ ] semantically controllable SMPL shape parameter generation
