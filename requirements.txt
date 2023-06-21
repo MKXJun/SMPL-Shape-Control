@@ -1,0 +1,4 @@
+trimesh
+pyrender
+numpy
+smplx
