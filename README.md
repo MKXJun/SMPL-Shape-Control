@@ -1,4 +1,4 @@
-# Sematic Controllable SMPL Shape
+# Semantically Controllable SMPL Shape
 
 Accurate height control without variation of arm span, inseam height, chest, waist and hip
 
