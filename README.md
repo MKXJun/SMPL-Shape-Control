@@ -1,14 +1,10 @@
 # Sematic Controllable SMPL Shape
 
-_____________
-
 Accurate height control without variation of arm span, inseam height, chest, waist and hip
 
 ![](image/00.png)
 
 ## Dependencies for demo
-
-------------
 
 ```
 pytorch
@@ -21,8 +17,6 @@ smplx
 You need to put `SMPLX_MALE.npz` into `data/body_models/smplx` folder.
 
 ## Demo
-
---------
 
 ![](image/01.gif)
 
@@ -39,8 +33,6 @@ You need to put `SMPLX_MALE.npz` into `data/body_models/smplx` folder.
 
 ## Roadmap
 
---------------
-
 - [x] SMPL-X shape control
 - [ ] SMPL shape control
 - [ ] SMPL-H shape control
@@ -52,8 +44,6 @@ You need to put `SMPLX_MALE.npz` into `data/body_models/smplx` folder.
 - [ ] semantically controllable SMPL shape parameter generation
 
 ## Usage
-
----------------
 
 ```python
 import torch
